@@ -18,11 +18,21 @@ public class Exercise {
 //        System.out.println(square);
 
         //5.3c
-        int i = 1;
-        while (i <= 20) {
-            System.out.println(i);
-            i++;
-        }
+//        int i = 1;
+//        while (i <= 20) {
+//            System.out.printf("%d\t", i);
+//            if(i % 5 == 0)
+//                System.out.println();
+//            i++;
+//        }
+//
+//        for( i = 1;i <= 20; i++) {
+//            System.out.print("\t"+ i);
+//            if(i % 5 == 0)
+//                System.out.println();
+//        }
+
+
     }
 
 }
